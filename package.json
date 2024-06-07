@@ -1,0 +1,15 @@
+{
+  "name": "marp-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:koko-u/marp-example.git",
+  "author": "KOZAKI Tsuneaki <kozaki.tsuneaki@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "marp": "marp",
+    "preview": "marp src/md/marp.md --preview"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}

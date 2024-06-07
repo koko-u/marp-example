@@ -1,1 +1,1 @@
-# marp-example
+# marp cli サンプルプロジェクト
