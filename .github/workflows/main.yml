@@ -20,7 +20,7 @@ jobs:
       - name: Copy images
         shell: bash
         run: |
-          copy -a ./src/md/images ./output/
+          cp -a ./src/md/images ./output/
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v4
