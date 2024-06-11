@@ -21,3 +21,8 @@ marp: true
 * プルリクエストを作って適当に main にマージする
 * Github Actions が Github Pages にリリースする
 
+---
+
+## 画像
+
+![height:480px](./images/man-5470365_1280.jpg)
